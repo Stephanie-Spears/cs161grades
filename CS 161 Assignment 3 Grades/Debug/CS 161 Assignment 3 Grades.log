@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 3 grades\cs 161 assignment 3 grades\source.cpp(47): error C2678: binary '<=': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 3 grades\cs 161 assignment 3 grades\source.cpp(47): note: could be 'built-in C++ operator<=(bool, int)'
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 3 grades\cs 161 assignment 3 grades\source.cpp(47): note: while trying to match the argument list '(std::istream, int)'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 3 grades\cs 161 assignment 3 grades\source.cpp(47): error C2678: binary '>=': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 3 grades\cs 161 assignment 3 grades\source.cpp(47): note: could be 'built-in C++ operator>=(bool, int)'
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 3 grades\cs 161 assignment 3 grades\source.cpp(47): note: while trying to match the argument list '(std::istream, int)'
